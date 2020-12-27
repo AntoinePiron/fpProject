@@ -12,9 +12,25 @@ h1{
 .s2 {
     background: url('../images/two.jpg');
     background-size: cover;
+
+    h1{
+        text-align: left;
+        margin-left: 2em;
+        font-size: 4rem;
+    }
 }
 
 .s3 {
     background: url('../images/three.jpg');
     background-size: cover;
+
+    h1{
+        text-align: left;
+        margin-left: 2em;
+        font-size: 2em;
+    }
+}
+
+span{
+    background: white !important;
 }

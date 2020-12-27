@@ -14,8 +14,24 @@ h1 {
   background-size: cover;
 }
 
+.s2 h1 {
+  text-align: left;
+  margin-left: 2em;
+  font-size: 4rem;
+}
+
 .s3 {
   background: url("../images/three.jpg");
   background-size: cover;
+}
+
+.s3 h1 {
+  text-align: left;
+  margin-left: 2em;
+  font-size: 2em;
+}
+
+span {
+  background: white !important;
 }
 /*# sourceMappingURL=main.css.map */
